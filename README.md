@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksjena
-- 👀 I’m interested in getting insights from data
+- 👀 I’m interested in solving business problem with help of data
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data related activities
 - 📫 How to reach me ksjenar01@gmail.com
